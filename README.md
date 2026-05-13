@@ -20,3 +20,5 @@ Numerical Aperture measurement Jig
 ---
 
 ## Result
+<img width="1599" height="1497" alt="image" src="https://github.com/user-attachments/assets/49da6e58-f958-4293-a4f4-dee7ca5de1dc" />
+
